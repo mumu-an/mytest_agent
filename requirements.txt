@@ -1,0 +1,15 @@
+fastapi
+langchain
+redis
+aioredis
+uvicorn
+qdrant_client
+colorlog
+openai
+python-dotenv
+dashscope
+requests
+playwright
+matplotlib
+pydantic
+langchain_core
